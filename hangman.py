@@ -1,5 +1,5 @@
 import random
-
+#sss
 #Fail count used for breaking a loop, those are our "lives" in game
 fail_guess_count = 10
 
